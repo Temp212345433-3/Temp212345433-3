@@ -13,20 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->Hi! My name is Suhayb Iqbal
-====================================================================================================================================
+-->Hi! My name is Suhayb Iqbal.
 
-Web Development Student
+Web Development Student.
 -----------------------
 
 I currently study Web Development & Mobile at University, working on my degree. I am interested in studying Website Development Front-End coding with JavaScript, HTML (Hypertext Mark-up Language) & CSS (Cascading Style Sheets) and various essential programs/languages for Back-End Web Development i.e Java, PHP & Frameworks. My passion for Website Development had risen due to assisting in the creation of a business website where the UI (User Interface) & UX (User Experience) was altered and adjusted to meet the client's needs. Studying Website Development allows creativity and problem-solving skills to be increased, because of the variety of Front-End “Programming/Mark-Up Languages” available to be interacted with and implemented within a website. I find applying the theoretical concepts to practical computing scenarios fascinating, and I would like to gain further knowledge in this sector.
 
-* 🌍  I'm based in England, United Kingdom
+* 🌍  I'm based in England, United Kingdom.
 
 <a href="https://www.github.com/Temp212345433-3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Temp212345433-3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+### Skills:
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
