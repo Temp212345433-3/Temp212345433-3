@@ -53,3 +53,5 @@ src="https://img.shields.io/github/followers/Temp212345433-3?logo=github&style=f
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/Temp2123454333"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+Credit for inspiration - https://www.profileme.dev/
