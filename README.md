@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Web Development Student.
 -----------------------
 
-<!-- I currently study Web Development & Mobile at University, working on my degree. I am interested in studying Website Development Front-End coding with JavaScript, HTML (Hypertext Mark-up Language) & CSS (Cascading Style Sheets) and various essential programs/languages for Back-End Web Development i.e Java, PHP & Frameworks. My passion for Website Development had risen due to assisting in the creation of a business website where the UI (User Interface) & UX (User Experience) was altered and adjusted to meet the client's needs. Studying Website Development allows creativity and problem-solving skills to be increased, because of the variety of Front-End “Programming/Mark-Up Languages” available to be interacted with and implemented within a website. I find applying the theoretical concepts to practical computing scenarios fascinating, and I would like to gain further knowledge in this sector. -->
+<!-- I currently study Web Development & Mobile at University, working on my degree. I am interested in studying Website Development Front-End coding with JavaScript, HTML (Hypertext Mark-up Language) & CSS (Cascading Style Sheets) and various essential programs/languages for Back-End Web Development i.e Java, PHP & Frameworks. My passion for Website Development had risen due to assisting in the creation of a business website where the UI (User Interface) & UX (User Experience) was altered and adjusted to meet the client's needs. Studying Website Development allows creativity and problem-solving skills to be increased, because of the variety of Front-End “Programming/Mark-Up Languages” available to be interacted with and implemented within a website. I find applying the theoretical concepts to practical computing scenarios fascinating, and I would like to gain further knowledge in this sector. 
 
 * 🌍  I'm based in England, United Kingdom.
 
@@ -54,4 +54,4 @@ src="https://img.shields.io/github/followers/Temp212345433-3?logo=github&style=f
 
 <a href="https://www.buymeacoffee.com/Temp2123454333"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-Credit for inspiration - https://www.profileme.dev/
+Credit for inspiration - https://www.profileme.dev/ -->
